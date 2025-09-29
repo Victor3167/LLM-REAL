@@ -1,0 +1,7 @@
+# Desafio: Aumentar a Taxa de Conversão de um Site
+
+Um dos maiores desafios para e-commerces e sites institucionais é a baixa taxa de conversão. Muitas vezes, o site recebe visitantes, mas poucos se tornam clientes ou preenchem um formulário de contato.
+
+A solução principal para isso é a otimização da experiência do usuário (UX) e a implementação de Testes A/B. É fundamental analisar a jornada do usuário no site, identificar pontos de atrito (páginas com alta taxa de saída, por exemplo) e simplificar o processo de compra ou contato.
+
+Testes A/B em elementos críticos como títulos, imagens de produtos, cores de botões (CTAs) e textos de oferta podem revelar rapidamente o que funciona melhor para o público, gerando aumentos significativos na conversão sem a necessidade de aumentar o investimento em tráfego.

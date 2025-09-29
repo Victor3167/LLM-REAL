@@ -1,0 +1,7 @@
+# requirements.txt
+
+streamlit
+python-dotenv
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
