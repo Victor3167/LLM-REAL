@@ -19,8 +19,9 @@ def buscar_informacao(query_usuario: str) -> tuple[str, float]:
     """
     if index is None:
         return "Desculpe, minha base de conhecimento não está disponível.", 0.0
-        
-    retriever = index.as_retriever(similarity_top_k=1)
+    
+    # ALTERADO DE 1 para 2    
+    retriever = index.as_retriever(similarity_top_k=2)
     nodes = retriever.retrieve(query_usuario)
     
     # Se encontrou algum resultado E o score é bom...

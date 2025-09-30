@@ -1,3 +1,10 @@
+# Perguntas comuns que este documento responde:
+# - como faço para aumentar a taxa de conversao do meu site?
+# - como posso melhorar a conversão de um site?
+# - dicas para otimizar a conversão.
+# - O que fazer para meu site converter mais?
+# - Aumentar a Taxa de Conversão de um Site
+
 # Desafio: Aumentar a Taxa de Conversão de um Site
 
 Um dos maiores desafios para e-commerces e sites institucionais é a baixa taxa de conversão. Muitas vezes, o site recebe visitantes, mas poucos se tornam clientes ou preenchem um formulário de contato.
